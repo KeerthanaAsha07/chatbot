@@ -59,9 +59,7 @@ Bot: I am a Python chatbot.
 
 You: bye
 Bot: Goodbye!
-```
 
----
 
 Learning Outcome
 By completing this project, I learned:
@@ -73,7 +71,7 @@ By completing this project, I learned:
 - How to handle basic user interaction
 - How to organize a Python project
 
----
+
  Project Outcome
 Successfully developed a basic chatbot that:
 - Accepts user messages
