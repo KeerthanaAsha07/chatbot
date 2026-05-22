@@ -1,0 +1,11 @@
+=== Simple Chatbot ===
+Type 'bye' to exit
+
+You: hello
+Bot: Hi! How are you?
+
+You: what is python
+Bot: Python is a programming language.
+
+You: bye
+Bot: Goodbye!
